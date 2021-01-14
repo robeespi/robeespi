@@ -6,6 +6,8 @@
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+[![robeespi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robeespi)](https://github.com/robeespi/github-readme-stats)
+
 <!--
 **robeespi/robeespi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
