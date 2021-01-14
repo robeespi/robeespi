@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robeespi&theme=highcontrast" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robeespi&theme=synthwave" />
 
 <!--
 **robeespi/robeespi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
