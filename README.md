@@ -17,7 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeespi&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/robeespi/github-readme-stats)
 
-### Languages and Tools:
+### Languages, Tools and miscelanous:
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
@@ -83,8 +83,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
   
   <p>
+  <br />
   <p>
+  <br /> 
   <p>
+  <br /> 
   <p>
     
   <img width="55%" align="left" alt="Rob github stats" src="https://github-readme-stats.vercel.app/api?username=robeespi&show_icons=true&hide_border=true"/>
