@@ -1,25 +1,3 @@
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robeespi&theme=vue&layout=compact" />
-
-[![robeespi's github stats](https://github-readme-stats.vercel.app/api?username=robeespi)](https://github.com/robeespi/github-readme-stats&show_icons=true)
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-<!--
-**robeespi/robeespi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![ViewCount](https://views.whatilearened.today/views/github/robeespi/robeespi.svg?cache=remove)
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/robeespi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robespi/)
@@ -29,7 +7,11 @@ Here are some ideas to get you started:
 
 ## Hi there I'm Rob, a data scientist, keen to learn and have fun here 👋
 
-Interested on the full cycle of machine learning/artificial intelligence application. My particulars interests lies on meta-learning, deep learning and markov chain models in task such as knowledge graphs, anomaly detection, NLP to name a few. 
+🤔  Interested on the full cycle of machine learning/artificial intelligence application. 
+
+🔭 My particulars interests lies on meta-learning, deep learning and markov chain models in task such as knowledge graphs, anomaly detection, NLP to name a few. 
+
+📫 How to reach me: shoot me an email
 
 ### Languages and Tools:
 
