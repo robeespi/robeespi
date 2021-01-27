@@ -7,17 +7,17 @@
 
 ## Hi there I'm Rob, a data scientist, keen to learn and have fun here 👋
 
-🤔  Interested on the full cycle of machine learning/artificial intelligence application. 
+🤔  Interested on the full cycle of machine learning/artificial intelligence applications to solve challenging technical and adaptive problems that make a meaningful difference and keep me learning and growing.
+ 
+🔭 My particulars interests lies on meta-learning, deep learning and markov chain models by including tasks such as knowledge graphs, anomaly detection, NLP to name a few. 
 
-🔭 My particulars interests lies on meta-learning, deep learning and markov chain models in task such as knowledge graphs, anomaly detection, NLP to name a few. 
-
-📫 How to reach me: shoot me an email
+📫 How to reach me: shoot me an email is the fastest way to reach me out
 
 ### Languages and Tools stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeespi&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/robeespi/github-readme-stats)
 
-### Languages, Tools and miscelanous:
+### Languages, Tools and miscelanous big picture:
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
