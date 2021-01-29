@@ -31,7 +31,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-  <code><img width="10%" src="https://github.com/simple-icons/simple-icons/blob/master/icons/mathworks.svg"></code>
+  <code><img width="10%" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_matlab.svg"></code>
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
