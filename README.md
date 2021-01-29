@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/robeespi)
 &nbsp;
 
-## Hi there I'm Rob, a data scientist, keen to learn and have fun here 👋
+## Hi there I'm Rob, a data scientist, keen to  have fun here 👋
 
 🤔  Interested on the full cycle of machine learning/artificial intelligence applications to solve challenging technical and adaptive problems that make a meaningful difference and keep me learning and growing.
  
@@ -17,7 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeespi&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/robeespi/github-readme-stats)
 
-### Languages, Tools and miscelanous big picture:
+### Languages, Tools and miscelanous that I used:
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
