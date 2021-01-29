@@ -72,7 +72,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
   <code><img width="10%" src="https://github.com/AwesomeLogos/logomono/blob/gh-pages/logos/tableau-software.svg"></code>
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg"></code>
+  <code><img width="10%" src="https://github.com/detain/svg-logos/blob/master/svg/qliktech.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"></code>
   <br />
