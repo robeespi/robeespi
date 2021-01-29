@@ -78,8 +78,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="10%" src="https://github.com/AwesomeLogos/logomono/blob/gh-pages/logos/css3.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-official.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
   
   <p>
