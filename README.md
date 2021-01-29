@@ -52,6 +52,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
   <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+  <code><img width="10%" src="https://github.com/AwesomeLogos/logomono/blob/gh-pages/logos/tableau-software.svg"></code>
+  <code><img width="10%" src="https://github.com/detain/svg-logos/blob/master/svg/qliktech.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"></code>
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
@@ -69,12 +75,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/producthunt/producthunt-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/thenounproject/thenounproject-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
-  <code><img width="10%" src="https://github.com/AwesomeLogos/logomono/blob/gh-pages/logos/tableau-software.svg"></code>
-  <code><img width="10%" src="https://github.com/detain/svg-logos/blob/master/svg/qliktech.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
