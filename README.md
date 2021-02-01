@@ -17,7 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeespi&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/robeespi/github-readme-stats)
 
-### Languages, Tools and miscelanous that I used:
+### Languages, Tools and miscelanous that I've used:
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
