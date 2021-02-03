@@ -7,11 +7,11 @@
 
 ## Hi there I'm Rob, a data scientist, keen to  have fun here 👋
 
-🤔  Interested on the full cycle of machine learning/artificial intelligence applications to solve challenges that make a meaningful difference and keep me learning and growing.
+🤔  Interested on the full cycle of machine learning/artificial intelligence applications to solve business challenges that make a meaningful difference and keep me learning and growing.
  
 🔭 My particulars interests lies on meta-learning, deep learning and markov chain models by including tasks such as knowledge graphs, anomaly detection, time series to name a few. 
 
-📫 How to reach me: shoot me an email is the fastest way to reach me out
+📫 How to reach me: shoot me an email 
 
 ### Languages and Tools stats:
 
