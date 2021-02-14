@@ -9,7 +9,7 @@
 
 🤔  Interested on the full cycle of machine learning/artificial intelligence applications to solve business challenges that make a meaningful difference and keep me learning and growing.
  
-🔭 My particulars interests lies on meta-learning, deep learning and markov chain models by including tasks such as knowledge graphs, anomaly detection, time series to name a few. 
+🔭 My particulars interests lies on meta-learning, deep learning, knowledge graphs and markov chain models by including tasks such as representation learning, anomaly detection, time series prediction to name a few. 
 
 📫 How to reach me: shoot me an email 
 
