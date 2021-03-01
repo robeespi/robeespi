@@ -15,7 +15,7 @@
 
 ### Languages and Tools stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeespi&hide=jupyter%20notebook&hide=html&show_icons=true&layout=compact&hide_border=true)](https://github.com/robeespi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeespi&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/robeespi/github-readme-stats)
 
 ### Languages, Tools and miscelanous that I've used:
 
