@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:roberto.espinozav@protonmail.com)
 &nbsp;
 
-## Hi there I'm Rob, a data scientist, keen to  have fun here 👋
+## Hi there keen to  have fun here 👋
 
 🤔  <p align=justify>Interested on the full cycle of machine learning/artificial intelligence applications.
  
